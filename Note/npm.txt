@@ -1,0 +1,2 @@
+npm install @tensorflow-models/coco-ssd
+npm install @tensorflow/tfjs
